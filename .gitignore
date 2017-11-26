@@ -1,0 +1,8 @@
+*~
+*.orig
+*.swp
+*.rej
+
+/_site
+/Gemfile.lock
+/Gemfile
