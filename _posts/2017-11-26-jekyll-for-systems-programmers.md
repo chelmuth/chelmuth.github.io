@@ -1,6 +1,6 @@
 ---
 title: Jekyll for systems programmers
-date: 2017-11-26
+date: 2017-11-26 23:00
 tags: jekyll blogging
 ---
 
@@ -12,4 +12,4 @@ framework and mounted the canvas. So here it is, but it was a stony path with
 Jekyll. (No, I'll not joke about Mr. Hyde!)
 
 Fortunately, I also got an idea about providing a comment feature for the blog
-just with the GitHub issue tracker. So, I'm not frustrated to much ;-)
+just with the GitHub issue tracker. So, I'm not frustrated too much ;-)

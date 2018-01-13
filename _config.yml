@@ -6,15 +6,19 @@ author: Christian Helmuth
 baseurl:
 url: "https://chelmuth.github.io"
 github:
-  is_project_page: false
+    is_project_page: false
 
 google_analytics:
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
-  date_format: "%b %-d, %Y"
+    date_format: "%b %-d, %Y"
 
 theme: # leave it empty
+
+markdown: kramdown
+kramdown:
+    input: GFM
 
 plugins:
     - jekyll-feed
